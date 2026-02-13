@@ -210,6 +210,5 @@ __marimo__/
 
 # LangSmith Studio
 **/.langgraph_api/
-*.pckl
 
 .DS_Store
